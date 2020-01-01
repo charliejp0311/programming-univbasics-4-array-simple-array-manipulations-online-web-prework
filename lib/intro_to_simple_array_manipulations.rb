@@ -14,8 +14,8 @@ end
 
 #using_pop(@continents)
 
-def pop_with_args(array)
-  array.pop
-  array.pop
+def pop_with_args(array, arg = 2)
+  while i < arg
+    array.pop
 end
 
