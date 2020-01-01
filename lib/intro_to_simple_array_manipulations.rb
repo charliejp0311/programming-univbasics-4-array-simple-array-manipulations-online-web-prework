@@ -12,7 +12,7 @@ def using_pop(array)
   array.pop 
 end
 
-using_pop(@continents)
+#using_pop(@continents)
 
 def pop_with_args(array)
   array.pop 
